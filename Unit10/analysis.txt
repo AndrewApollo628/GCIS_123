@@ -1,0 +1,15 @@
+book, system, library, author, title, page_length, cover, checkout_amount, id, name, avalibility, electronic_card_catalog
+library
+    system (String)
+    book (String)
+    checkout_amount (int)
+electronic_card_catalog
+    ID (String)
+    Name (String)  
+book
+    author (String)
+    cover (String)
+    title (String)
+    page_length (int)
+
+find_book, find_author, find_title, find_patron, add_to_want_list, 

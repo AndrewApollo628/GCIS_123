@@ -1,0 +1,11 @@
+Author:Andrew Apollo
+
+BIO
+    leader: boolean 
+    name: string
+    abilities: list
+    Weapons: list 
+
+roster: 
+    bios: list 
+    
